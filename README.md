@@ -4,7 +4,7 @@ Welcome to the **Classic Models Database Analysis** project! This project aims t
 
 Through this analysis, we aim to gain insights into product performance, customer behavior, and sales trends to support business decision-making.
 
-![Classic Models](https://via.placeholder.com/1200x400.png?text=Classic+Models+Database+Analysis)
+
 
 ---
 
@@ -63,6 +63,9 @@ Three dashboards were created to provide key insights and facilitate easy analys
      - **Sales by region**
      - **Top countries** for sales and revenue
      - **Yearly sales trend**
+    
+       ![image](https://github.com/user-attachments/assets/6ffbf47b-43ea-497e-b36a-8d67b5f1323c)
+
 
 ### 2. **Product Analysis Dashboard**
    - **Purpose**: Focuses on the performance of various products and product lines.
@@ -71,6 +74,7 @@ Three dashboards were created to provide key insights and facilitate easy analys
      - **Top-selling products** by order quantity
      - **Cancelled products**
      - **Most profitable products** by revenue
+![image](https://github.com/user-attachments/assets/40021910-6fa9-4b60-a126-fb56509cd6e8)
 
 ### 3. **Customer Analysis Dashboard**
    - **Purpose**: Analyzes customer behavior and trends.
@@ -79,7 +83,8 @@ Three dashboards were created to provide key insights and facilitate easy analys
      - **Sales by customer demographics** (e.g., age, region)
      - **Repeat customer analysis**
      - **Top customers by revenue**
-  
+  ![image](https://github.com/user-attachments/assets/6f3be2df-1520-44b8-b22e-fff3631c5030)
+
 ---
 
 ## 💡 Insights from the Analysis
