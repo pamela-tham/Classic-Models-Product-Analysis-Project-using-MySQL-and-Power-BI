@@ -2,7 +2,7 @@
 
 Welcome to the **Classic Models Database Analysis** project! This project aims to analyze sales and performance data of a fictional company that sells classic car models. The data is sourced from the [MySQL Tutorial Sample Database](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/), which is widely used for learning relational database structures and SQL querying. 
 
-Through this analysis, we aim to gain insights into product performance, customer behavior, and sales trends to support business decision-making.
+Through this analysis, we aim to gain insights into product performance, customer behaviour, and sales trends to support business decision-making.
 
 
 
