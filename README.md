@@ -148,14 +148,6 @@ Here are some sneak peeks from the dashboards:
 ### 3. **Customer Analysis Dashboard**  
    ![Customer Analysis Dashboard](https://via.placeholder.com/800x400.png?text=Customer+Analysis+Dashboard)
 
----
-
-## 📧 Contact
-
-If you have any questions or feedback, feel free to reach out!
-
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🌐 LinkedIn: [Your LinkedIn Profile](#)
 
 ---
 
